@@ -1,0 +1,23 @@
+{
+  "name": "expressjs-cluster-example",
+  "version": "0.0.0",
+  "description": "expressjs-cluster-example\r =========================",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabhi/expressjs-cluster-example.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/gabhi/expressjs-cluster-example/issues"
+  },
+  "homepage": "https://github.com/gabhi/expressjs-cluster-example"
+}
